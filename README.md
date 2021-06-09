@@ -1,6 +1,8 @@
 # Interview tasks
 There are two tasks to be completed. I would expect this to take around 30 minutes.
 
+When completed, please submit the code you used to achieve the results.
+
 ### Task 1:
 Navigate to https://aluminati.net, browse to the contact form, and fill out the form with whatever details you deem appropriate.
 
