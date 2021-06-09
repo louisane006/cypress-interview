@@ -4,7 +4,7 @@ There are two tasks to be completed. I would expect this to take around 30 minut
 ### Task 1:
 Navigate to https://aluminati.net, browse to the contact form, and fill out the form with whatever details you deem appropriate.
 
-You will not be able to submit the form as it's behind a CAPTCHA, but simply filling out the data is enough for this excersise.
+You will not be able to submit the form as it's behind a CAPTCHA, but simply filling out the data is enough for this exercise.
 
 ### Task 2
 Task: In mobile view, browse to Our services -> Aluminate for education and get the value for every href on every anchor (<a> tag) on the page.
