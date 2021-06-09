@@ -15,4 +15,4 @@ Please perform this entire task on the mobile site, including the navigation and
 ## Installing
 Download follow the instructions [here](https://docs.cypress.io/guides/getting-started/installing-cypress#Direct-download) to download/install cypress. This test is written with _direct installation_ in mind, but if you're more comfortable with a different method and you can make it work, you're welcome to do so.
 
-The next step is to clone out test repo from INSERT LINK HERE. You should then be able to run cypress on this and get our basic setup.
+The next step is to clone out test repo from [this github link](https://github.com/Aluminati/cypress-interview). You should then be able to run cypress on this and get our basic setup.
