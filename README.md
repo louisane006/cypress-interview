@@ -7,6 +7,8 @@ Whilst it is preferred that you use Cypress, you may also submit using your own 
 
 Whilst Cypress is quick to pick up, you can see a short introduction to this tool at [this link](https://youtu.be/VvLocgtCQnY?list=PL8GlT7H3xOcKBEDLXwJPE1jwZ_Z4oh6Rk&t=69)
 
+Even if you don't manage to achieve the desired outcome, submit your code anyway as the implementation is also important.
+
 ### Task 1:
 Navigate to https://aluminati.net, browse to the contact form, and fill out the form with whatever details you deem appropriate.
 
