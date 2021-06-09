@@ -1,4 +1,4 @@
-# Interview task
+# Interview tasks
 There are two tasks to be completed. I would expect this to take around 30 minutes.
 
 ### Task 1:
