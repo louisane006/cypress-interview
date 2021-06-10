@@ -1,7 +1,7 @@
 # Interview tasks
 There are two tasks to be completed. I would expect this to take around 30 minutes.
 
-This assignment is for applicants wishing to apply to Aluminati as a QA Automation Tester. There are two tasks below which use the testing framework Cypress. Submission of your task involves writing the test code that achieves both tasks and submitting any files you create or edit to achieve this via your recruitment manager.
+This assignment is for applicants wishing to apply to Aluminati as a Senior QA Specialist. There are two tasks below which use the testing framework Cypress. Submission of your task involves writing the test code that achieves both tasks and submitting any files you create or edit to achieve this via your recruitment manager.
 
 Whilst it is preferred that you use Cypress, you may also submit using your own testing tool. In this case we would need you to record and submit a video of the execution along with your code.
 
