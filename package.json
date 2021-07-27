@@ -1,0 +1,25 @@
+{
+  "name": "cypress-interview",
+  "version": "1.0.0",
+  "description": "There are two tasks to be completed. I would expect this to take around 30 minutes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louisane006/cypress-interview.git"
+  },
+  "author": "Louise Mukendi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/louisane006/cypress-interview/issues"
+  },
+  "homepage": "https://github.com/louisane006/cypress-interview#readme",
+  "devDependencies": {
+    "cypress": "^8.0.0"
+  },
+  "dependencies": {
+    "cypress-xpath": "^1.6.2"
+  }
+}
